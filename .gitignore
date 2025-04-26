@@ -1,0 +1,19 @@
+# Virtual enviroment
+env/
+
+# Python cache files
+__pycache__/
+*pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# other files
+*.pdf
+*.tex
+*.csv
+
+# system files
+.DS_Store
+
+
